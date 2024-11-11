@@ -1,5 +1,5 @@
 
-import './Button.css'
+import './button.css'
 import WhiteArrow from '../../assets/white-arrow.svg'
 
 

@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from 'react'
-import './ContactForm.css'
+import './contactform.css';
 
 //COMPONENTES
 import Button from '../button/button'

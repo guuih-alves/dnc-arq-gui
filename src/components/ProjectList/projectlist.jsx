@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from 'react'
-import './Projectlist.css'
+import './projectlist.css'
 
 //ASSETS
 import LikedFilled from '../../assets/like.svg'
